@@ -6,6 +6,7 @@ metadata:
   labels:
     app.armada.ai/type: marketplace-apps
     app.armada.ai/name: "integration-test-app"
+    app.kubernetes.io/instance: f5587ce3-ccce-4915-b589-7f1d491ddaf1
 spec:
   selector:
     matchLabels:
